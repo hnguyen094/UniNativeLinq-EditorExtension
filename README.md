@@ -15,7 +15,7 @@ Find `Packages/manifest.json` in your project and edit it to look like this:
 ```yaml
 {
   "dependencies": {
-    "uninativelinq": "https://github.com/pCYSl5EDgo/UniNativeLinq-EditorExtension.git#2018.4",
+    "uninativelinq": "https://github.com/hnguyen094/UniNativeLinq-EditorExtension.git#2018.4",
     ...
   },
 }
